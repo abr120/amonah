@@ -1,0 +1,67 @@
+﻿[
+ {
+     "title":"امونة ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/amonah/master/01.JPG",
+    "arguments":[
+      "PLN6apssAT7XQo7ghowLXt3Ci-oESR3_co","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+{
+     "title":" امونة المزيونة  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/amonah/master/02.JPG",
+    "arguments":[
+      "PLoV6HXLT_hrYMQlYs5dieTd_PlYWCFkNb","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+{
+     "title":"  رسوم امونة المزيونة  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/amonah/master/03.JPG",
+    "arguments":[
+      "PL8VokiQp9MFSw13zjm6vmMZ6qY5LmiqWC","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+{
+     "title":" امونة المزيونة ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/amonah/master/04.JPG",
+    "arguments":[
+      "PLDwO8i9oZNrR0kdCHFb5Spl8wIw9ayMAP","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+{
+     "title":"أمونة  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/amonah/master/05.JPG",
+    "arguments":[
+      "PLIAJa5ioBqFO_d5cowfevB50PCvoIc9MX","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+{
+     "title":" امونة المزيونة   ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/amonah/master/06.JPG",
+    "arguments":[
+      "PLopdGryCOmgaO-YGBn3kDiHRLasN8BfV8","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  },
+{
+     "title":"   Oscar's Oasis Chicken  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/amonah/master/07.JPG",
+    "arguments":[
+      "PL_mdMEHn0oarE-kSyjdNXZOEiyGp9ijVb","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  }
+,
+{
+     "title":"    Oscar's Oasis  ",
+    "provider":"youtube",
+    "image":"https://raw.githubusercontent.com/abr120/amonah/master/08.JPG",
+    "arguments":[
+      "PLVgGR8BqcW0TmsQyVg1isnaC7vBlT1uPk","playlist","AIzaSyDTD8bcyqqhmyN6sgmWLsOSBgv0BRpjNvk"
+    ]
+  } 
+]
